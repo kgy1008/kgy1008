@@ -1,4 +1,4 @@
-<div align="center"><h2>Welcome to Gayeon's Github Profile 👋</h2></div>
+<div align="center"><h2>Welcome to My Github Profile 👋</h2></div>
 
 
 ### BOJ 🏹
