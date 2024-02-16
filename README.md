@@ -1,6 +1,6 @@
 <div align="center"><h2>Welcome to My Github Profile 👋</h2></div>
 
-[![gayeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=kgy1008&show_icons=true&theme=vue&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![gayeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=kgy1008&show_icons=true&theme=vue&hide=issues&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### BOJ 🏹
