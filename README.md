@@ -5,10 +5,10 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkgy1008&count_bg=%2349A800&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=github&edge_flat=false)](https://hits.seeyoufarm.com)
 <a href="mailto:libra001008@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:libra001008@gmail.com"/></a>
 <a href="https://www.instagram.com/k.__.gyeon/"><img src="https://img.shields.io/badge/Instagram-dd2a7b?style=flat&logo=Instagram&logoColor=white"/></a>  
-<br><br>
+<br>
 
 ## About Me 👩🏻‍💻
-Sungkyunkwan Univ., Seoul, Korea (Computer Education / Software) 
+- Sungkyunkwan Univ. Computer Education / Software 2020.03 ~
 
 <br>
 
