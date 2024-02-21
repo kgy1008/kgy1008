@@ -13,6 +13,14 @@
 <br>
 
 ## Tech Stack 🛠
+### Programming Languages
+<div>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Java-3766AB?style=flat&logo=OpenJDK&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black">
+</div>
+
 ### Frontend
 <div>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white">
@@ -23,7 +31,7 @@
 
 ### Backend
 <div>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white">
+<img src="https://img.shields.io/badge/Flask-0052CC?style=flat&logo=Flask&logoColor=white">
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
