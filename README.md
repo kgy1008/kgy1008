@@ -31,9 +31,9 @@
 
 ### Backend
 <div>
-<img src="https://img.shields.io/badge/Flask-0052CC?style=flat&logo=Flask&logoColor=white">
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white">
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white">
 </div>
