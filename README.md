@@ -38,11 +38,6 @@
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white">
 </div>
 
-### Deployment
-<div>
-<img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=Amazon EC2&logoColor=white">
-</div>
-
 ### Version Control
 <div>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
