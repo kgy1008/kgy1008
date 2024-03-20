@@ -12,6 +12,7 @@
 <a href="https://www.instagram.com/k.__.gyeon/"><img src="https://img.shields.io/badge/Instagram-dd2a7b?style=flat&logo=Instagram&logoColor=white"/></a>  
 - Sungkyunkwan Univ. Computer Education / Software 2020.03 ~
 - Kaist Madcamp 2023.12 ~ 2024.01
+- NOW SOPT SERVER 2024.03 ~ 
 
 <br>
 
