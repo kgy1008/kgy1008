@@ -22,8 +22,8 @@
 <div>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/Java-3766AB?style=flat&logo=OpenJDK&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
 </div>
 
 ### Frontend
@@ -36,24 +36,25 @@
 
 ### Backend
 <div>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white">
-<img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white">
+</div>
+
+### DevOps
+<div>  
+<img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=Amazon EC2&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat&logo=Amazon RDS&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat&logo=Amazon S3&logoColor=white">
 </div>
 
 ### Version Control
 <div>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white">
-</div>
-
-
-### Studying..
-<div>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
 </div>
 <br><br>
 
