@@ -9,7 +9,7 @@
 <a href="https://velog.io/@yeoni_"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/></a>
 - SKKU Computer Education / Software 2020.03 ~
 - Kaist Madcamp 2023.12 ~ 2024.01
-- NOW SOPT SERVER 2024.03 ~ 
+- NOW SOPT SERVER 2024.03 ~ 2024.07
 
 <br>
 
