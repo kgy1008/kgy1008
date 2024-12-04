@@ -11,7 +11,7 @@
 - SKKU Computer Education 2020.03 ~ 2025.02
 - Kaist Madcamp 2023.12 ~ 2024.01
 - NOW SOPT SERVER 2024.03 ~ 2024.07
-- AND SOPT SERVER 2024.09 ~ 2025.02
+<!-- - AND SOPT SERVER 2024.09 ~ 2025.02 -->
 
 <br>
 
