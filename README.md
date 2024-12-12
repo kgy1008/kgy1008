@@ -5,11 +5,10 @@
 ## About Me 👩🏻‍💻
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkgy1008&count_bg=%2349A800&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=github&edge_flat=false)](https://hits.seeyoufarm.com)
 <a href="https://www.linkedin.com/in/kgy1008/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white"/></a>
-<a href="mailto:libra001008@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:libra001008@gmail.com"/></a>
 <a href="https://www.instagram.com/k.__.gyeon/"><img src="https://img.shields.io/badge/Instagram-dd2a7b?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://velog.io/@yeoni_"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/></a>
 - SKKU Computer Education 2020.03 ~ 2025.02
-- Kaist Madcamp 2023.12 ~ 2024.01
+- KAIST Madcamp 2023.12 ~ 2024.01
 - NOW SOPT SERVER 2024.03 ~ 2024.07
 <!-- - AND SOPT SERVER 2024.09 ~ 2025.02 -->
 
@@ -46,6 +45,6 @@
 <br><br>
 
 ## BOJ 🏹
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gayeon1008)](https://solved.ac/gayeon1008/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=komguma20)](https://solved.ac/komguma20/)
 
 
