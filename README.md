@@ -9,8 +9,7 @@
 <a href="https://velog.io/@yeoni_"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/></a>
 - SKKU Computer Education 2020.03 ~ 2025.02
 - KAIST Madcamp 2023.12 ~ 2024.01
-- NOW SOPT SERVER 2024.03 ~ 2024.07
-<!-- - AND SOPT SERVER 2024.09 ~ 2025.02 -->
+- 대학생 IT 연합 동아리 SOPT 34, 35기 SERVER 파트원
 
 <br>
 
