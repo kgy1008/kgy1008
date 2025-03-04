@@ -7,13 +7,13 @@
 <a href="https://www.linkedin.com/in/kgy1008/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=inspire&logoColor=white"/></a>
 <a href="https://www.instagram.com/k.__.gyeon/"><img src="https://img.shields.io/badge/Instagram-dd2a7b?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://velog.io/@yeoni_"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/></a>
-| 활동명                        | 기간                    |
-| ----------------------------- | ----------------------- |
-| KAIST Madcamp                 | 2023.12 ~ 2024.01       |
-| IT 연합 동아리 [NOW SOPT](https://www.sopt.org/) 34기 SERVER           | 2024.03 ~ 2025.07       |
-| IT 연합 동아리 [AND SOPT](https://www.sopt.org/) 35기 SERVER           | 2024.09 ~ 2025.01       |
-| 삼성 SDS 상반기 알고리즘 특강          | 2025.02                 |
 
+SKKU Computer Education
+### Experience ✈️
+- KAIST Madcamp  (2023.12 ~ 2024.01)
+- IT 연합 동아리 [NOW SOPT](https://www.sopt.org/) 34기 SERVER   (2024.03 ~ 2025.07)
+- IT 연합 동아리 [AND SOPT](https://www.sopt.org/) 35기 SERVER           (2024.09 ~ 2025.01)
+- 삼성 SDS 상반기 알고리즘 특강          (2025.02)
 
 ## Tech Stack 🛠
 ### Programming Languages
