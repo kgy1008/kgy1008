@@ -11,8 +11,7 @@
 SKKU Computer Education
 ### Experience ✈️
 - KAIST Madcamp  (2023.12 ~ 2024.01)
-- IT 연합 동아리 [NOW SOPT](https://www.sopt.org/) 34기 SERVER   (2024.03 ~ 2025.07)
-- IT 연합 동아리 [AND SOPT](https://www.sopt.org/) 35기 SERVER           (2024.09 ~ 2025.01)
+- IT 연합 동아리 [SOPT](https://www.sopt.org/) 34기 / 35기 SERVER 파트원 (2024.03 ~ 2025.01)
 - 삼성 SDS 상반기 알고리즘 특강          (2025.02)
 
 ## Tech Stack 🛠
