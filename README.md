@@ -15,6 +15,9 @@
 - SW Maestro 16th (2025.04 ~ 진행 중)
 
 ### BOJ 🏹
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=komguma20)](https://solved.ac/komguma20/)
-
+<p>
+  <a target="_blank" href="https://solved.ac/profile/komguma20">
+    <img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=komguma20&theme=dark">
+  </a>
+</p>
 
