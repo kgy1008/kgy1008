@@ -1,7 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=venom&animation=fadeIn&color=timeGradient&height=200&text=Welcome%20to%20My%20Github%20👋&fontSize=45&fontColor=black)  
-
-<br>
-
 ## About Me 👩🏻‍💻
 <a href="https://www.linkedin.com/in/kgy1008/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=inspire&logoColor=white"/></a>
 <a href="https://www.instagram.com/k.__.gyeon/"><img src="https://img.shields.io/badge/Instagram-dd2a7b?style=flat&logo=Instagram&logoColor=white"/></a>
@@ -15,7 +11,7 @@
 - SW Maestro 16th (2025.04 ~ 진행 중)
 
 ### BOJ 🏹
-<p>
+<p align = 'center'>
   <a target="_blank" href="https://solved.ac/profile/komguma20">
     <img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=komguma20&theme=dark">
   </a>
