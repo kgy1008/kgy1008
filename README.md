@@ -5,7 +5,6 @@
 
 ### Experience ✈️
 - SKKU Computer Education
-- KAIST Madcamp (2023.12 ~ 2024.01)
 - IT 연합 동아리 SOPT 34기 / 35기 SERVER 파트원 (2024.03 ~ 2025.01)
 - 삼성 SDS 상반기 알고리즘 특강 (2025.02)
 - SW Maestro 16th (2025.04 ~ 진행 중)
