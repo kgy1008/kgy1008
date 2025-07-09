@@ -3,7 +3,7 @@
 <a href="https://wing1008.tistory.com/"><img src="https://img.shields.io/badge/tistory-EC6653?style=flat&logo=tistory&logoColor=white"/></a>
 
 ### Career
-- SKKU Computer Education <sub><sup>2020.03 ~ 2025.08</sup></sub> 
+- SKKU Computer Education <sub><sup>2020.03 ~ 2026.02</sup></sub> 
 
 ### Experience 
 - SW Maestro 16th <sub><sup>2025.04 ~ </sup></sub>
