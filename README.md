@@ -1,5 +1,5 @@
 ## About Me 
-<a href="https://www.linkedin.com/in/kgy1008/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=inspire&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/jian1008/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=inspire&logoColor=white"/></a>
 <a href="https://wing1008.tistory.com/"><img src="https://img.shields.io/badge/tistory-EC6653?style=flat&logo=tistory&logoColor=white"/></a>
 
 ### Career
