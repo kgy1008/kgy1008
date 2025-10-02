@@ -8,7 +8,8 @@
 ### Experience 
 - SW Maestro 16th <sub><sup>2025.04 ~ </sup></sub>
 - 삼성 SDS 상반기 알고리즘 특강 <sub><sup>2025.02</sup></sub>  
-- IT 연합 동아리 SOPT 34기 / 35기 SERVER 파트원 <sub><sup>2024.03 ~ 2025.01</sup></sub>  
+- IT 연합 동아리 SOPT 34기 / 35기 SERVER 파트원 <sub><sup>2024.03 ~ 2025.01</sup></sub>
+- KAIST MADCAMP <sub><sup>2023.12 ~ 2024.01</sup></sub>  
 
 ### BOJ
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=komguma20)](https://solved.ac/komguma20/)
