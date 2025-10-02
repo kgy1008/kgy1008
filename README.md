@@ -11,9 +11,12 @@
 - IT 연합 동아리 SOPT 34기 / 35기 SERVER 파트원 <sub><sup>2024.03 ~ 2025.01</sup></sub>  
 
 ### BOJ
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=komguma20)](https://solved.ac/komguma20/)
+
+<!--
 <p align = 'center'>
   <a target="_blank" href="https://solved.ac/profile/komguma20">
     <img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=komguma20&theme=dark">
   </a>
 </p>
-
+-->
