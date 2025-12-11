@@ -6,7 +6,7 @@
 - SKKU Computer Education <sub><sup>2020.03 ~ 2026.02</sup></sub> 
 
 ### Experience 
-- SW Maestro 16th <sub><sup>2025.04 ~ 2025.10 </sup></sub>
+- SW Maestro 16th <sub><sup>2025.04 ~ 2025.11 </sup></sub>
 - IT 연합 동아리 SOPT 34기 / 35기 SERVER 파트원 <sub><sup>2024.03 ~ 2025.01</sup></sub>
 - KAIST MADCAMP <sub><sup>2023.12 ~ 2024.01</sup></sub>  
 
