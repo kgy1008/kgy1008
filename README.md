@@ -6,6 +6,3 @@
 <sub><sup> SW Maestro 16th 2025.04 ~ 2025.11 </sup></sub>  
 <sub><sup> IT 연합 동아리 SOPT 34기 / 35기 SERVER 파트원 2024.03 ~ 2025.01</sup></sub>  
 <sub><sup> SKKU Computer Education 2020.03 ~ 2026.02</sup></sub>   
-
-<br>
-<br>
