@@ -6,7 +6,7 @@ Career
 <sub><sup> 2026.01 ~ now &nbsp;&nbsp; 카카오페이(Kakaopay) Server Developer </sup></sub>  
 
 Activities  
-<sub><sup> 2025.04 ~ 2025.11 &nbsp;&nbsp; SW Maestro 16th </sup></sub>  
+<sub><sup> 2025.04 ~ 2025.11 &nbsp;&nbsp; SW Maestro 16th 연수생 </sup></sub>  
 <sub><sup> 2024.03 ~ 2025.01 &nbsp;&nbsp; IT 연합 동아리 SOPT 34기 / 35기 서버 파트원 </sup></sub>  
 
 Education  
