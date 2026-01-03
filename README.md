@@ -3,7 +3,7 @@
 <a href="https://wing1008.tistory.com/"><img src="https://img.shields.io/badge/tistory-EC6653?style=flat&logo=tistory&logoColor=white"/></a>
 
 Career  
-<sub><sup> 2026.01 ~ now &nbsp;&nbsp; 카카오페이(Kakaopay) Server Developer </sup></sub>  
+<sub><sup> 2026.01 ~ now &nbsp;&nbsp; **카카오페이(Kakaopay)** &nbsp; Server Developer </sup></sub>  
 
 Activities  
 <sub><sup> 2025.04 ~ 2025.11 &nbsp;&nbsp; SW Maestro 16th 연수생 </sup></sub>  
